@@ -42,7 +42,7 @@ Exemplo:
 
 A lógica principal do monitoramento é baseada em um loop contínuo:
 
-![Fluxo do monitoramento](imagens/Fluxo_Alerta_Lote.png)
+![Fluxo do monitoramento](Imagens/Fluxo_Alerta_Lote.png)
 
 ## Resultado
 
